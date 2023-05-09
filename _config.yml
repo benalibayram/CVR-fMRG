@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Proje Başlığı: Serebrovasküler Reaktivite Ölçümü ile Düzeltilmiş Fonksiyonel MR Bağlantısallık Metrikleri Kullanarak Hipertansif Olguların Sınıflandırılması"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
