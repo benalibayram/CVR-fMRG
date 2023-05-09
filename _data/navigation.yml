@@ -5,5 +5,11 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
+  - title: "Proje Hakkında"
     url: /about/
+  - title: "Proje Ekibi"
+    url: /team/
+  - title: "Proje Faaliyetleri"
+    url: /method/
+  - title: "Proje Sonuçları"
+    url: /outputs/
