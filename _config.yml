@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hipertansiyonda Serebrovasküler Reaktivite ve Fonksiyonel Bağlantısallık.
+title: HipTans CVR
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Serebrovasküler Reaktivite Ölçümü ile Düzeltilmiş Fonksiyonel MR Bağlantısallık Metrikleri Kullanarak Hipertansif Olguların Sınıflandırılması.
