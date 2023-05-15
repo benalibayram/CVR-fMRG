@@ -59,6 +59,7 @@ author:
   name   : "HipTans CVR"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hipertansiyonda, Serebrovasküler Reaktivite ve Fonksiyonel Bağlantısallık."
+  location: "İstanbul Tıp Nörolojik Bilimler"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
