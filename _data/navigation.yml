@@ -9,7 +9,3 @@ main:
     url: /outputs/
   - title: "Paylaşımlar"
     url: /posts/
-  - title: "Kategoriler"
-    url: /categories/
-  - title: "Etiketler"
-    url: /tags/
