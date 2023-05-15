@@ -1,10 +1,4 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "Proje Hakkında"
     url: /about/
   - title: "Proje Ekibi"
@@ -13,3 +7,9 @@ main:
     url: /method/
   - title: "Proje Sonuçları"
     url: /outputs/
+  - title: "Paylaşımlar"
+    url: /posts/
+  - title: "Kategoriler"
+    url: /categories/
+  - title: "Etiketler"
+    url: /tags/
